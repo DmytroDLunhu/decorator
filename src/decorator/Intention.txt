@@ -1,0 +1,4 @@
+Patron de conception structurel.
+
+Decorator - est un patron de conception structurel qui permet d’ajouter dynamiquement
+de nouveaux comportements à des objets en les plaçant à l’intérieur d’objets spéciaux appelés emballeurs (wrappers).
